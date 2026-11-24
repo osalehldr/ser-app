@@ -1,0 +1,23 @@
+{
+ "PA": {
+  "coef": [
+   0.9986027914543895,
+   159.71851505614828
+  ],
+  "carbon_offset": -4.861326812244383,
+  "n": 28,
+  "mae": 3.1983461950270446,
+  "max": 9.298842585723207,
+  "source": "NIST WebBook proton affinities (Hunter & Lias, J. Phys. Chem. Ref. Data 1998, 27, 413)"
+ },
+ "Eox": {
+  "coef": [
+   0.048865232087969314,
+   -10.698952790910809
+  ],
+  "n": 11,
+  "mae": 0.12332022129813208,
+  "max": 0.3725036833625781,
+  "source": "E1/2 / Ep/2 vs SCE in MeCN (Roth, Romero, Nicewicz, Synlett 2016, 27, 714; classic values)"
+ }
+}
